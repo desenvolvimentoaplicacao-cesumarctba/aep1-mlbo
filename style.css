@@ -1,0 +1,10 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	
+	color:lightblue;
+	font-size: 30pt;
+	text-shadow:2px 2px 10px blue;
+}
